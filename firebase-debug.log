@@ -60,3 +60,66 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] ✔  Success! Logged into GitHub as aroragarvit 
 [info] 
+[debug] [2023-02-04T18:50:29.270Z] >>> [apiv2][query] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:50:29.834Z] <<< [apiv2][status] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key 401
+[debug] [2023-02-04T18:50:29.834Z] <<< [apiv2][body] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:50:31.381Z] >>> [apiv2][query] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:50:31.897Z] <<< [apiv2][status] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key 401
+[debug] [2023-02-04T18:50:31.897Z] <<< [apiv2][body] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:50:33.843Z] >>> [apiv2][query] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:50:34.316Z] <<< [apiv2][status] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key 401
+[debug] [2023-02-04T18:50:34.317Z] <<< [apiv2][body] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:50:34.501Z] >>> [apiv2][query] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:50:35.041Z] <<< [apiv2][status] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key 401
+[debug] [2023-02-04T18:50:35.041Z] <<< [apiv2][body] GET https://api.github.com/repos/aroragarvit/kontent/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:36.464Z] >>> [apiv2][query] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:37.066Z] <<< [apiv2][status] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:37.066Z] <<< [apiv2][body] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:37.669Z] >>> [apiv2][query] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.168Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.190Z] <<< [apiv2][status] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:38.191Z] <<< [apiv2][body] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:38.200Z] >>> [apiv2][query] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.229Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.259Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.289Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.320Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.353Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.381Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.422Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.446Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.557Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.665Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:38.665Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:38.708Z] <<< [apiv2][status] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:38.708Z] <<< [apiv2][body] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:38.725Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:38.726Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:38.734Z] >>> [apiv2][query] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:38.785Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:38.785Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:38.789Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:38.789Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:38.870Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:39.012Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:39.030Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.030Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:39.033Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.034Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:39.052Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.053Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:39.057Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.057Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:39.061Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.061Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:39.167Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-02-04T18:52:39.179Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.179Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:39.425Z] <<< [apiv2][status] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.425Z] <<< [apiv2][body] GET https://api.github.com/repos/aroragarvit/hackathon-project/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:39.504Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.505Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:39.509Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.510Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-02-04T18:52:39.826Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-02-04T18:52:39.827Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}

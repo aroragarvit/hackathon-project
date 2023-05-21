@@ -1,7 +1,14 @@
+import React from "react";
+import { useEffect, useState } from "react";
+import GoogleAuth from "./components/googleauth";
+import initializeFirebase from "./services/init";
+
+initializeFirebase();
+
 function App() {
   return (
     <div className="App">
-      <h1>React App</h1>
+      <GoogleAuth />
     </div>
   );
 }
